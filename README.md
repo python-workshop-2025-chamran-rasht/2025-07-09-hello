@@ -38,3 +38,13 @@
    ```sh
    pip3 install -r requirements.txt
    ```
+
+برای اجرا کردن:
+
+1. ترمینال را باز کنید
+2. محیط مجازی را فعال کنید
+3. فلاسک را اجرا کنید
+
+   ```sh
+   flask --app exercise run
+   ```
